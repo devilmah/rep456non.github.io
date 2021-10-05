@@ -1,0 +1,66 @@
+body {
+	background: url("white-grey-cubes.png"); 
+	font-family:century gothic;
+}
+
+header{
+
+	background-color:#0e2225; 
+	box-shadow: 0 5px 10px;
+}
+.logo{
+	box-shadow: 0 5px 10px;
+}
+
+.title{
+	background-color:#8ba6a9;
+}
+
+h2{
+	color: #fff;
+	font-weight: bold;
+	background-color:#8ba6a9;
+	border-left: 10px solid #0e2225;
+	border-bottom: 1px solid #0e2225;
+}
+
+.nav-pills .nav-link.active{
+background-color:#055160;	
+}
+.nav-pills .nav-link{
+	background-color:#ffffff61;
+	border-radius:0;
+}	
+
+
+.list, .table-box, .form{
+
+	background-color:#fff;
+	box-shadow: 0 2px 10px;
+}
+
+
+
+aside{
+	
+	background: url("add.jpg"); 
+	box-shadow: 0 2px 10px;
+	
+}
+.add{
+	background-color:#fff;
+}
+
+.table{
+	text-align:left;//
+	border-collapse:separate;
+	border-spacing:5px;
+	border:16px solid ;
+	box-shadow: 0 2px 10px;
+}
+
+footer{
+	background-color:#2a4b4f; 
+	box-shadow: 0 2px 10px;
+}
+
